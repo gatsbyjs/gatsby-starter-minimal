@@ -4,6 +4,9 @@
   "private": true,
   "description": "A Gatsby starter with no plugins and a single welcome page.",
   "author": "Laurie Barth",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "keywords": [
     "gatsby"
   ],
